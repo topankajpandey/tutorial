@@ -1,0 +1,6 @@
+{
+    "name": "offsight-console-redis",
+    "level": "info",
+    "output": "json",
+    "logHost": "https://vpc-offsight-logs-im7r7t6mrvgzifstqdtjnzwcfi.us-west-2.es.amazonaws.com"
+}
